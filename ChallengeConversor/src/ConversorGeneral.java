@@ -21,7 +21,6 @@ public class ConversorGeneral {
 
                         } while (montoIngresado == 0);
                         ConversionMoneda(montoIngresado);
-
                         break;
 
                     case "Conversion de temperatura":
@@ -29,12 +28,15 @@ public class ConversorGeneral {
                         cantidad = JOptionPane.showInputDialog("Ingresa los grados a converitr  ");
                         montoIngresado = Double.parseDouble(cantidad);
 
-                        ConversionTemperatura(montoIngresado);break;
+                        ConversionTemperatura(montoIngresado);
+                        break;
+
                     case "Conversion de edad a segundos":
                         cantidad = JOptionPane.showInputDialog("Ingresa tu  edad!! ");
                         monto=Integer.parseInt(cantidad);
                         ConversionUnidades(monto);
                         break;
+                        
                     case "Selecciona":
                         JOptionPane.showInternalMessageDialog(null, "Selecciona un opcion invalida ");
                         break;
