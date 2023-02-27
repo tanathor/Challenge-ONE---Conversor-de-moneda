@@ -167,10 +167,7 @@ public class ConversorGeneral {
         String seleccion;
 
         seleccion = (JOptionPane.showInputDialog(null, " ¿Que conversion de temperatura necesitas? ", "Temperatura",
-                JOptionPane.PLAIN_MESSAGE, null,
-                new Object[] { "Selecciona", "Celcius a Fahrenheit", "Celcius a Kelvin", "De Fahrenheit a Celcius",
-                        "De Fahrenheit a Kelvin", "De Kelvin a Celcius", "De Kelvin a Fahrenheit" },
-                "Selecciona")).toString();
+                JOptionPane.PLAIN_MESSAGE, null,new Object[] { "Selecciona", "Celcius a Fahrenheit", "Celcius a Kelvin", "De Fahrenheit a Celcius", "De Fahrenheit a Kelvin", "De Kelvin a Celcius", "De Kelvin a Fahrenheit" },  "Selecciona")).toString();
 
         switch (seleccion) {
             case "Celcius a Fahrenheit":
