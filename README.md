@@ -21,10 +21,16 @@ En el proyecto se encuentran los siguientes conversores con sus respectivas unid
 |Conversor de unidades de distancia          |`Milimetros, centimetros, metros, kilometros, pulgadas, yardas, millas.`
 
 Asi se ve el uso de los conversores:
-![usoDeConversor](https://user-images.githubusercontent.com/40722975/221948012-c3e32480-1174-4f23-9f40-3c46d5be0481.gif)
+![usoDeConversor](https://user-images.githubusercontent.com/40722975/221959271-e3609d0e-1e87-4cf9-89a6-a4592fe60e4e.gif)
+
 
 ## Tecnologias de desarrollo
-![java-original|200](https://user-images.githubusercontent.com/40722975/221948725-1030ed14-c7ca-4356-8256-041d700126b3.svg)
+| [<img src="https://user-images.githubusercontent.com/40722975/221956241-6239eba0-8749-4e2e-b9c9-5f5cb2a5e979.png" width=115>](https://www.java.com/es/) |  [<img src="https://user-images.githubusercontent.com/40722975/221957234-b4ecc359-6bca-4a97-899f-d07a7b2bef0c.png" width=115>](https://www.jetbrains.com/es-es/idea/) |
+| :---: | :---: | 
+
+## Desarrollador
+[<img src="https://user-images.githubusercontent.com/40722975/221952661-971e0d5a-5a14-4f55-84cf-a980d1490730.png" width=115><br><sub>Alejandro Muñoz</sub>](https://github.com/tanathor)
+
 
 
 
