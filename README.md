@@ -25,8 +25,8 @@ Asi se ve el uso de los conversores:
 
 
 ## Tecnologias de desarrollo
-| [<img src="https://user-images.githubusercontent.com/40722975/221956241-6239eba0-8749-4e2e-b9c9-5f5cb2a5e979.png" width=115>](https://www.java.com/es/) |  [<img src="https://user-images.githubusercontent.com/40722975/221957234-b4ecc359-6bca-4a97-899f-d07a7b2bef0c.png" width=115>](https://www.jetbrains.com/es-es/idea/) |
-| :---: | :---: | 
+ [<img src="https://user-images.githubusercontent.com/40722975/221956241-6239eba0-8749-4e2e-b9c9-5f5cb2a5e979.png" width=115>](https://www.java.com/es/)   [<img src="https://user-images.githubusercontent.com/40722975/221957234-b4ecc359-6bca-4a97-899f-d07a7b2bef0c.png" width=115>](https://www.jetbrains.com/es-es/idea/) 
+
 
 ## Desarrollador
 [<img src="https://user-images.githubusercontent.com/40722975/221952661-971e0d5a-5a14-4f55-84cf-a980d1490730.png" width=115><br><sub>Alejandro Muñoz</sub>](https://github.com/tanathor)
